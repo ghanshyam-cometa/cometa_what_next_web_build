@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "leads_to": "4,5,6",
+    "name": "I am in 10th Standard now",
+    "text": "<h3>Apple Inc. is an American multinational technology company headquartered in Cupertino, California, that designs, develops, and sells consumer electronics, computer software, and online services.</h3>",
+    "is_root": true
+  },
+  {
+    "id": 2,
+    "leads_to": "",
+    "name": "I am in 12th Standard now",
+    "text": "<h3>Apple Inc. is an American multinational technology company headquartered in Cupertino, California, that designs, develops, and sells consumer electronics, computer software, and online services.</h3>",
+    "is_root": true
+  },
+  {
+    "id": 3,
+    "leads_to": "",
+    "name": "I am studying ITI now",
+    "text": "<h3>Apple Inc. is an American multinational <a href='https://github.com'>websites</a>technology company headquartered in Cupertino</h3><br><img alt='Google' src='https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png' /><video controls src=\"https://root.cometaintellect.com/media/others/angry_birds.mp4\"></video>",
+    "is_root": true
+  },
+  {
+    "id": 4,
+    "leads_to": "",
+    "name": "PCM",
+    "text": "<h3>Apple Inc. is an American multinational technology company headquartered in Cupertino, California, that designs, develops, and sells consumer electronics, computer software, and online services.</h3>",
+    "is_root": false
+  },
+  {
+    "id": 5,
+    "leads_to": "",
+    "name": "PCB",
+    "text": "<h3>Apple Inc. is an American multinational technology company headquartered in Cupertino, California, that designs, develops, and sells consumer electronics, computer software, and online services.</h3>",
+    "is_root": false
+  },
+  {
+    "id": 6,
+    "leads_to": "",
+    "name": "Commerce",
+    "text": "<h3>Apple Inc. is an American multinational technology company headquartered in Cupertino, California, that designs, develops, and sells consumer electronics, computer software, and online services.</h3>",
+    "is_root": false
+  }
+]

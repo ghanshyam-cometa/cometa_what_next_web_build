@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "leads_to": "",
+    "name": "Doctor",
+    "text": "Apple Inc. is an American multinational technology company headquartered in Cupertino, California, that designs, develops, and sells consumer electronics, computer software, and online services.",
+    "is_root": true
+  },
+  {
+    "id": 2,
+    "leads_to": "",
+    "name": "Scientist",
+    "text": "Apple Inc. is an American multinational technology company headquartered in Cupertino, California, that designs, develops, and sells consumer electronics, computer software, and online services.",
+    "is_root": true
+  },
+  {
+    "id": 3,
+    "leads_to": "",
+    "name": "IAS",
+    "text": "Apple Inc. is an American multinational technology company headquartered in Cupertino, California, that designs, develops, and sells consumer electronics, computer software, and online services.",
+    "is_root": true
+  },
+  {
+    "id": 4,
+    "leads_to": "",
+    "name": "IPS",
+    "text": "Apple Inc. is an American multinational technology company headquartered in Cupertino, California, that designs, develops, and sells consumer electronics, computer software, and online services.",
+    "is_root": true
+  },
+  {
+    "id": 5,
+    "leads_to": "",
+    "name": "Lawyer",
+    "text": "Apple Inc. is an American multinational technology company headquartered in Cupertino, California, that designs, develops, and sells consumer electronics, computer software, and online services.",
+    "is_root": true
+  }
+]
