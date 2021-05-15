@@ -2,7 +2,7 @@
   {
     "id": 1,
     "leads_to": "",
-    "name": "banker.html",
+    "name": "Banker",
     "html_asset_path": "assets/html/career/banker.html",
     "text": "",
     "is_root": true
@@ -10,7 +10,7 @@
   {
     "id": 2,
     "leads_to": "",
-    "name": "Career_as_a_Central_Reserve_Police_Force.html",
+    "name": "Central Reserve Police Force",
     "html_asset_path": "assets/html/career/Career_as_a_Central_Reserve_Police_Force.html",
     "text": "",
     "is_root": true
@@ -18,7 +18,7 @@
   {
     "id": 3,
     "leads_to": "",
-    "name": "Career_as_a_nAir_Force_Officer.html",
+    "name": "Air Force Officer",
     "html_asset_path": "assets/html/career/Career_as_a_nAir_Force_Officer.html",
     "text": "",
     "is_root": true
@@ -34,7 +34,7 @@
   {
     "id": 5,
     "leads_to": "",
-    "name": "Career_as_a_Professor.html",
+    "name": "Professor",
     "html_asset_path": "assets/html/career/Career_as_a_Professor.html",
     "text": "",
     "is_root": true
@@ -42,7 +42,7 @@
   {
     "id": 6,
     "leads_to": "",
-    "name": "Career_as_a_Scientist.html",
+    "name": "Scientist",
     "html_asset_path": "assets/html/career/Career_as_a_Scientist.html",
     "text": "",
     "is_root": true
@@ -50,7 +50,7 @@
   {
     "id": 7,
     "leads_to": "",
-    "name": "CAREER_AS_A_TEACHER.html",
+    "name": "Teacher",
     "html_asset_path": "assets/html/career/CAREER_AS_A_TEACHER.html",
     "text": "",
     "is_root": true
@@ -58,7 +58,7 @@
   {
     "id": 8,
     "leads_to": "",
-    "name": "Career_in_Bsc.Agriculture.html",
+    "name": "Bsc. Agriculture",
     "html_asset_path": "assets/html/career/Career_in_Bsc.Agriculture.html",
     "text": "",
     "is_root": true
@@ -66,7 +66,7 @@
   {
     "id": 9,
     "leads_to": "",
-    "name": "Charted_accountant.html",
+    "name": "Charted Accountant",
     "html_asset_path": "assets/html/career/Charted_accountant.html",
     "text": "",
     "is_root": true
@@ -74,7 +74,7 @@
   {
     "id": 10,
     "leads_to": "",
-    "name": "Doctor.html",
+    "name": "Doctor",
     "html_asset_path": "assets/html/career/Doctor.html",
     "text": "",
     "is_root": true
@@ -82,7 +82,7 @@
   {
     "id": 11,
     "leads_to": "",
-    "name": "Education_after_10th_to_Degree.html",
+    "name": "Education After 10th to Degree",
     "html_asset_path": "assets/html/career/Education_after_10th_to_Degree.html",
     "text": "",
     "is_root": true
@@ -90,7 +90,7 @@
   {
     "id": 12,
     "leads_to": "",
-    "name": "Engineer.html",
+    "name": "Engineer",
     "html_asset_path": "assets/html/career/Engineer.html",
     "text": "",
     "is_root": true
@@ -98,7 +98,7 @@
   {
     "id": 13,
     "leads_to": "",
-    "name": "ENTEPRENEUR.html",
+    "name": "Entrepreneur",
     "html_asset_path": "assets/html/career/ENTEPRENEUR.html",
     "text": "",
     "is_root": true
@@ -106,7 +106,7 @@
   {
     "id": 14,
     "leads_to": "",
-    "name": "IAS_.html",
+    "name": "IAS",
     "html_asset_path": "assets/html/career/IAS_.html",
     "text": "",
     "is_root": true
@@ -114,7 +114,7 @@
   {
     "id": 15,
     "leads_to": "",
-    "name": "Judge.html",
+    "name": "Judge",
     "html_asset_path": "assets/html/career/Judge.html",
     "text": "",
     "is_root": true
@@ -122,7 +122,7 @@
   {
     "id": 16,
     "leads_to": "",
-    "name": "Police.html",
+    "name": "Police",
     "html_asset_path": "assets/html/career/Police.html",
     "text": "",
     "is_root": true
