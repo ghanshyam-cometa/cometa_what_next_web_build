@@ -1,44 +1,1689 @@
 [
-  {
-    "id": 1,
-    "leads_to": "4,5,6",
-    "name": "I am in 10th Standard now",
-    "text": "<h3>Apple Inc. is an American multinational technology company headquartered in Cupertino, California, that designs, develops, and sells consumer electronics, computer software, and online services.</h3>",
-    "is_root": true
-  },
-  {
-    "id": 2,
-    "leads_to": "",
-    "name": "I am in 12th Standard now",
-    "text": "<h3>Apple Inc. is an American multinational technology company headquartered in Cupertino, California, that designs, develops, and sells consumer electronics, computer software, and online services.</h3>",
-    "is_root": true
-  },
-  {
-    "id": 3,
-    "leads_to": "",
-    "name": "I am studying ITI now",
-    "text": "<h3>Apple Inc. is an American multinational <a href='https://github.com'>websites</a>technology company headquartered in Cupertino</h3><br><img alt='Google' src='https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png' /><video controls src=\"https://root.cometaintellect.com/media/others/angry_birds.mp4\"></video>",
-    "is_root": true
-  },
-  {
-    "id": 4,
-    "leads_to": "",
-    "name": "PCM",
-    "text": "<h3>Apple Inc. is an American multinational technology company headquartered in Cupertino, California, that designs, develops, and sells consumer electronics, computer software, and online services.</h3>",
-    "is_root": false
-  },
-  {
-    "id": 5,
-    "leads_to": "",
-    "name": "PCB",
-    "text": "<h3>Apple Inc. is an American multinational technology company headquartered in Cupertino, California, that designs, develops, and sells consumer electronics, computer software, and online services.</h3>",
-    "is_root": false
-  },
-  {
-    "id": 6,
-    "leads_to": "",
-    "name": "Commerce",
-    "text": "<h3>Apple Inc. is an American multinational technology company headquartered in Cupertino, California, that designs, develops, and sells consumer electronics, computer software, and online services.</h3>",
-    "is_root": false
-  }
+    {
+        "id": 1,
+        "leads_to": "2,12,17,39,40,58,65",
+        "name": "10th",
+        "text": "",
+        "is_root": true
+    },
+    {
+        "id": 2,
+        "leads_to": "3,7,9",
+        "name": "Intermediate (2 years)",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 3,
+        "leads_to": "4,5,6",
+        "name": "Science",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 4,
+        "leads_to": "",
+        "name": "MPC",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 5,
+        "leads_to": "",
+        "name": "BiPC",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 6,
+        "leads_to": "",
+        "name": "Library Sciences",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 7,
+        "leads_to": "8",
+        "name": "Commerce",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 8,
+        "leads_to": "",
+        "name": "CEC",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 9,
+        "leads_to": "10,11",
+        "name": "Arts",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 10,
+        "leads_to": "",
+        "name": "MEC",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 11,
+        "leads_to": "",
+        "name": "HEC",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 12,
+        "leads_to": "13,14,15,16",
+        "name": "Others",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 13,
+        "leads_to": "",
+        "name": "Beauty & Cosmetology",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 14,
+        "leads_to": "",
+        "name": "Jewelry Designing",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 15,
+        "leads_to": "",
+        "name": "Fashion Designing",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 16,
+        "leads_to": "",
+        "name": "Photography",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 17,
+        "leads_to": "18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38",
+        "name": "Polytechnic (3 years)",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 18,
+        "leads_to": "",
+        "name": "Mechanical",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 19,
+        "leads_to": "",
+        "name": "Computer Science",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 20,
+        "leads_to": "",
+        "name": "Civil",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 21,
+        "leads_to": "",
+        "name": "EEE",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 22,
+        "leads_to": "",
+        "name": "IT",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 23,
+        "leads_to": "",
+        "name": "Automobile",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 24,
+        "leads_to": "",
+        "name": "Electronics & Communication",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 25,
+        "leads_to": "",
+        "name": "Bio-Technology",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 26,
+        "leads_to": "",
+        "name": "Electrical",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 27,
+        "leads_to": "",
+        "name": "Chemical",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 28,
+        "leads_to": "",
+        "name": "Aeronautical",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 29,
+        "leads_to": "",
+        "name": "Agriculture",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 30,
+        "leads_to": "",
+        "name": "Architecture",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 31,
+        "leads_to": "",
+        "name": "Bio-Medical",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 32,
+        "leads_to": "",
+        "name": "Marine Technology",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 33,
+        "leads_to": "",
+        "name": "Mining Technology",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 34,
+        "leads_to": "",
+        "name": "Leather Technology",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 35,
+        "leads_to": "",
+        "name": "Textile Technology",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 36,
+        "leads_to": "",
+        "name": "Petroleum Technology",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 37,
+        "leads_to": "",
+        "name": "Plastic Technology",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 38,
+        "leads_to": "",
+        "name": "Rubber Technology",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 39,
+        "leads_to": "",
+        "name": "IIIT",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 40,
+        "leads_to": "41,42,43,44,49,50,51,52,53,54,55,56,57",
+        "name": "ITI",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 41,
+        "leads_to": "",
+        "name": "Fitter",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 42,
+        "leads_to": "",
+        "name": "Computer",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 43,
+        "leads_to": "",
+        "name": "Civil (Draughtman)",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 44,
+        "leads_to": "45,46,47,48",
+        "name": "Mechanical",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 45,
+        "leads_to": "",
+        "name": "Radio & TV",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 46,
+        "leads_to": "",
+        "name": "Motor Vehicle",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 47,
+        "leads_to": "",
+        "name": "Diesel",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 48,
+        "leads_to": "",
+        "name": "Marine",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 49,
+        "leads_to": "",
+        "name": "Electrical",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 50,
+        "leads_to": "",
+        "name": "Plumber",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 51,
+        "leads_to": "",
+        "name": "Surveyor",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 52,
+        "leads_to": "",
+        "name": "Electrical",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 53,
+        "leads_to": "",
+        "name": "Machine Tools",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 54,
+        "leads_to": "",
+        "name": "Welder",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 55,
+        "leads_to": "",
+        "name": "Firemen",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 56,
+        "leads_to": "",
+        "name": "Cookery",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 57,
+        "leads_to": "",
+        "name": "Paint Technology",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 58,
+        "leads_to": "59,60,61,62,63,64",
+        "name": "Paramedical (3 years)",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 59,
+        "leads_to": "",
+        "name": "DLMT",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 60,
+        "leads_to": "",
+        "name": "DHFM",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 61,
+        "leads_to": "",
+        "name": "DOA",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 62,
+        "leads_to": "",
+        "name": "DOT",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 63,
+        "leads_to": "",
+        "name": "Health Inspector",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 64,
+        "leads_to": "",
+        "name": "Sanitary Inspector",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 65,
+        "leads_to": "66,67,68,69,70,71,72,73",
+        "name": "Short term courses (6 months/ 1 year)",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 66,
+        "leads_to": "",
+        "name": "DTP",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 67,
+        "leads_to": "",
+        "name": "PGDCA",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 68,
+        "leads_to": "",
+        "name": "Tally",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 69,
+        "leads_to": "",
+        "name": "Internet",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 70,
+        "leads_to": "",
+        "name": "Graphics",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 71,
+        "leads_to": "",
+        "name": "Animation",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 72,
+        "leads_to": "",
+        "name": "Web Designing",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 73,
+        "leads_to": "",
+        "name": "Cyber Security",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 74,
+        "leads_to": "75,93,117,171,175",
+        "name": "12th",
+        "text": "",
+        "is_root": true
+    },
+    {
+        "id": 75,
+        "leads_to": "76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92",
+        "name": "Engineering (4 years)",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 76,
+        "leads_to": "",
+        "name": "IT",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 77,
+        "leads_to": "",
+        "name": "EEE",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 78,
+        "leads_to": "",
+        "name": "CSE ECE",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 79,
+        "leads_to": "",
+        "name": "Civil Engineering",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 80,
+        "leads_to": "",
+        "name": "Mechanical Engineering",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 81,
+        "leads_to": "",
+        "name": "Aeronautical Engineering",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 82,
+        "leads_to": "",
+        "name": "Chemical Engineering",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 83,
+        "leads_to": "",
+        "name": "Aerospace Engineering",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 84,
+        "leads_to": "",
+        "name": "Automobile Engineering",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 85,
+        "leads_to": "",
+        "name": "Bio-technology Engineering",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 86,
+        "leads_to": "",
+        "name": "Agricultural Engineering",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 87,
+        "leads_to": "",
+        "name": "Ceramic Engineering",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 88,
+        "leads_to": "",
+        "name": "Environmental Engineering",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 89,
+        "leads_to": "",
+        "name": "Industrial Engineering",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 90,
+        "leads_to": "",
+        "name": "Marine Engineering",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 91,
+        "leads_to": "",
+        "name": "Silk and Textile Engineering",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 92,
+        "leads_to": "",
+        "name": "Mining Engineering",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 93,
+        "leads_to": "94,104",
+        "name": "Medical",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 94,
+        "leads_to": "95,96,97,98,99,100,101,102,103",
+        "name": "Medicine (5 years)",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 95,
+        "leads_to": "",
+        "name": "BHMS - Homeopathy",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 96,
+        "leads_to": "",
+        "name": "BAMS - Ayurveda",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 97,
+        "leads_to": "",
+        "name": "Ag. BSc Agricultural",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 98,
+        "leads_to": "",
+        "name": "BNYS - Naturopathy",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 99,
+        "leads_to": "",
+        "name": "BDS - Dental",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 100,
+        "leads_to": "",
+        "name": "MBBS - Allopathic",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 101,
+        "leads_to": "",
+        "name": "BVSc - Veterinary",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 102,
+        "leads_to": "",
+        "name": "BPT - Physiotherapy",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 103,
+        "leads_to": "",
+        "name": "BUMS - Unani",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 104,
+        "leads_to": "105,106,107,108,109,110,111,112,113,114,115,116",
+        "name": "Allied Health Sciences (2/ 3 years)",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 105,
+        "leads_to": "",
+        "name": "BSc. Nursing",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 106,
+        "leads_to": "",
+        "name": "BSc. Operation Theatre",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 107,
+        "leads_to": "",
+        "name": "BSc.Respiratory Care",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 108,
+        "leads_to": "",
+        "name": "BSc.Clinical Optometry",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 109,
+        "leads_to": "",
+        "name": "BOT Occupational Therapy",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 110,
+        "leads_to": "",
+        "name": "BSc. Radio Therapy Tec",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 111,
+        "leads_to": "",
+        "name": "BSc. Cardiac Tec",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 112,
+        "leads_to": "",
+        "name": "BSc. Medical Lab Tec",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 113,
+        "leads_to": "",
+        "name": "BSc. Nuclear Medicine",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 114,
+        "leads_to": "",
+        "name": "BSc. Anesthesia Tec",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 115,
+        "leads_to": "",
+        "name": "BSc. Physician Assistant",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 116,
+        "leads_to": "",
+        "name": "B. Pharma",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 117,
+        "leads_to": "118,156,163",
+        "name": "Degree (3 years)",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 118,
+        "leads_to": "119,129,143,148",
+        "name": "Degree (3 Years)",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 119,
+        "leads_to": "120,121,122,123,124,125,126,127,128",
+        "name": "BA",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 120,
+        "leads_to": "",
+        "name": "BA Economics",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 121,
+        "leads_to": "",
+        "name": "BA Sociology",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 122,
+        "leads_to": "",
+        "name": "BA HEP",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 123,
+        "leads_to": "",
+        "name": "BA Library Sciences",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 124,
+        "leads_to": "",
+        "name": "BA HTP",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 125,
+        "leads_to": "",
+        "name": "BA Fine Arts",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 126,
+        "leads_to": "",
+        "name": "BA Political Sciences",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 127,
+        "leads_to": "",
+        "name": "BA Linguistics",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 128,
+        "leads_to": "",
+        "name": "BA Phycology",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 129,
+        "leads_to": "130,131,132,133,134,135,136,137,138,139,140,141,142",
+        "name": "BSc",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 130,
+        "leads_to": "",
+        "name": "BSc. MEC",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 131,
+        "leads_to": "",
+        "name": "BSc. MPC",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 132,
+        "leads_to": "",
+        "name": "BSc. Applied Mathematics",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 133,
+        "leads_to": "",
+        "name": "BSc. CPZ",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 134,
+        "leads_to": "",
+        "name": "BSc. Horticulture",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 135,
+        "leads_to": "",
+        "name": "BSc. BZC/ CBZ",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 136,
+        "leads_to": "",
+        "name": "BSc. Home Sciences",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 137,
+        "leads_to": "",
+        "name": "BSc. Computer Science",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 138,
+        "leads_to": "",
+        "name": "BSc. Bio Chemistry",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 139,
+        "leads_to": "",
+        "name": "BSc. Micro Biology",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 140,
+        "leads_to": "",
+        "name": "BSc. Bio Technology",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 141,
+        "leads_to": "",
+        "name": "BSc. Anthropology",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 142,
+        "leads_to": "",
+        "name": "BSc. Diary Science",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 143,
+        "leads_to": "144,145,146,147",
+        "name": "B.Com.",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 144,
+        "leads_to": "",
+        "name": "B.Com. Computers",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 145,
+        "leads_to": "",
+        "name": "B.Com. Regular",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 146,
+        "leads_to": "",
+        "name": "B.Com. Bank Management",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 147,
+        "leads_to": "",
+        "name": "B.Com. Tax Process",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 148,
+        "leads_to": "149,150,151,152,153,154,155",
+        "name": "Other Degrees",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 149,
+        "leads_to": "",
+        "name": "LLB",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 150,
+        "leads_to": "",
+        "name": "BCA",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 151,
+        "leads_to": "",
+        "name": "BBA",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 152,
+        "leads_to": "",
+        "name": "BAF",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 153,
+        "leads_to": "",
+        "name": "BBM",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 154,
+        "leads_to": "",
+        "name": "BFM",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 155,
+        "leads_to": "",
+        "name": "BMS",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 156,
+        "leads_to": "157,158,159,160,161,162",
+        "name": "Dual Degree (4 Years)",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 157,
+        "leads_to": "",
+        "name": "BA + LLB",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 158,
+        "leads_to": "",
+        "name": "BBA + LLB",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 159,
+        "leads_to": "",
+        "name": "BA + Bed",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 160,
+        "leads_to": "",
+        "name": "BBM + LLB",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 161,
+        "leads_to": "",
+        "name": "BSc + Bed",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 162,
+        "leads_to": "",
+        "name": "BCom + LLB",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 163,
+        "leads_to": "164,165,170",
+        "name": "Professional Courses",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 164,
+        "leads_to": "",
+        "name": "CS",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 165,
+        "leads_to": "166",
+        "name": "CA",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 166,
+        "leads_to": "167",
+        "name": "CPT",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 167,
+        "leads_to": "168",
+        "name": "ITT",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 168,
+        "leads_to": "169",
+        "name": "Articleship",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 169,
+        "leads_to": "",
+        "name": "Clear Final Exam (Become a CA)",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 170,
+        "leads_to": "",
+        "name": "ICWA",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 171,
+        "leads_to": "172,173,174",
+        "name": "Teaching",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 172,
+        "leads_to": "",
+        "name": "UDPED",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 173,
+        "leads_to": "",
+        "name": "D. ED",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 174,
+        "leads_to": "",
+        "name": "ECCED",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 175,
+        "leads_to": "176,177,178,179,180,181,182,183,187,194",
+        "name": "Others",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 176,
+        "leads_to": "",
+        "name": "Journalism",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 177,
+        "leads_to": "",
+        "name": "Fire Safety",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 178,
+        "leads_to": "",
+        "name": "Foreign Languages",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 179,
+        "leads_to": "",
+        "name": "Home Sciences",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 180,
+        "leads_to": "",
+        "name": "Rural Development",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 181,
+        "leads_to": "",
+        "name": "Hotel Management",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 182,
+        "leads_to": "",
+        "name": "Tourism",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 183,
+        "leads_to": "184,185,186",
+        "name": "Designing",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 184,
+        "leads_to": "",
+        "name": "Interior",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 185,
+        "leads_to": "",
+        "name": "Jewelry",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 186,
+        "leads_to": "",
+        "name": "Fashion",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 187,
+        "leads_to": "188,189,190,191,192,193",
+        "name": "Film Making",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 188,
+        "leads_to": "",
+        "name": "Action",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 189,
+        "leads_to": "",
+        "name": "ScreenWriting",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 190,
+        "leads_to": "",
+        "name": "Direction",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 191,
+        "leads_to": "",
+        "name": "Editing",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 192,
+        "leads_to": "",
+        "name": "Sound Designee",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 193,
+        "leads_to": "",
+        "name": "Cinematography",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 194,
+        "leads_to": "195,196,197",
+        "name": "Management",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 195,
+        "leads_to": "",
+        "name": "Finance Management",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 196,
+        "leads_to": "",
+        "name": "Event Management",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 197,
+        "leads_to": "",
+        "name": "Hotel Management",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 198,
+        "leads_to": "199,203,208,236,240",
+        "name": "Graduation",
+        "text": "",
+        "is_root": true
+    },
+    {
+        "id": 199,
+        "leads_to": "200,201,202",
+        "name": "Engineering Students",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 200,
+        "leads_to": "",
+        "name": "Job",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 201,
+        "leads_to": "",
+        "name": "M.Tech",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 202,
+        "leads_to": "",
+        "name": "MBA",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 203,
+        "leads_to": "204,205,206,207",
+        "name": "Medical Students",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 204,
+        "leads_to": "",
+        "name": "Job",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 205,
+        "leads_to": "",
+        "name": "Practice",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 206,
+        "leads_to": "",
+        "name": "MS",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 207,
+        "leads_to": "",
+        "name": "MD",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 208,
+        "leads_to": "209,215,220,225,229,233",
+        "name": "Degree Students",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 209,
+        "leads_to": "210,211,212,213,214",
+        "name": "BA",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 210,
+        "leads_to": "",
+        "name": "MBA",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 211,
+        "leads_to": "",
+        "name": "LLB",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 212,
+        "leads_to": "",
+        "name": "B.Ed",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 213,
+        "leads_to": "",
+        "name": "MA",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 214,
+        "leads_to": "",
+        "name": "Phd",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 215,
+        "leads_to": "216,217,218,219",
+        "name": "BSC",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 216,
+        "leads_to": "",
+        "name": "LLB",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 217,
+        "leads_to": "",
+        "name": "MSC",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 218,
+        "leads_to": "",
+        "name": "B.Ed",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 219,
+        "leads_to": "",
+        "name": "Phd",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 220,
+        "leads_to": "221,222,223,224",
+        "name": "B.Com",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 221,
+        "leads_to": "",
+        "name": "MBA",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 222,
+        "leads_to": "",
+        "name": "M.Com",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 223,
+        "leads_to": "",
+        "name": "LLB",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 224,
+        "leads_to": "",
+        "name": "Phd",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 225,
+        "leads_to": "226,227,228",
+        "name": "LLB",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 226,
+        "leads_to": "",
+        "name": "DLL",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 227,
+        "leads_to": "",
+        "name": "LLM",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 228,
+        "leads_to": "",
+        "name": "DTL",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 229,
+        "leads_to": "230,231,232",
+        "name": "BCA",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 230,
+        "leads_to": "",
+        "name": "MBA",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 231,
+        "leads_to": "",
+        "name": "MCA",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 232,
+        "leads_to": "",
+        "name": "Phd",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 233,
+        "leads_to": "234,235",
+        "name": "BBA/ BBM",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 234,
+        "leads_to": "",
+        "name": "MBA",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 235,
+        "leads_to": "",
+        "name": "Phd",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 236,
+        "leads_to": "237,238,239",
+        "name": "Teaching Students",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 237,
+        "leads_to": "",
+        "name": "B.Ed/ B.PEd",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 238,
+        "leads_to": "",
+        "name": "M.Ed",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 239,
+        "leads_to": "",
+        "name": "Phd",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 240,
+        "leads_to": "241",
+        "name": "Others",
+        "text": "",
+        "is_root": false
+    },
+    {
+        "id": 241,
+        "leads_to": "",
+        "name": "Post Graduation",
+        "text": "",
+        "is_root": false
+    }
 ]
